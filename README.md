@@ -1,5 +1,5 @@
 # Face-Mask-Detection-With-YoloV8
-
+![](https://www.ideas2it.com/wp-content/uploads/Facemask-Detection-Blog.jpg)
 EN<br>
 Hello, from my new computer vision project. In this my project, I prepared a project about the face mask detection with [Face Mask Detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) dataset from Kaggle. In this project, I used the YoloV8 model. I completed a fifty-step training. Actually, The goal of my project is I show how the training YoloV8 model with your personal dataset and the fundamental of trening yolov8.
 
